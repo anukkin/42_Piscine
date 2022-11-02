@@ -35,10 +35,11 @@
 *.i*86
 *.x86_64
 
-.DS_Store
-.vscode
-a.out
+*.DS_Store
+*.vscode
+/a.out
 *.hex
+*.swp
 
 # Debug files
 *.dSYM/
